@@ -1,0 +1,12 @@
+{
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.167.1",
+    "vite": "^5.4.2"
+  }
+}
